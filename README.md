@@ -1,6 +1,4 @@
-# Zadania_Java_Calculator
-
-# Modelowanie faktury VAT
+# Zadania Kalkulator
 
 | Termin oddania | Punkty     |
 |----------------|:-----------|
