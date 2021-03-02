@@ -1,4 +1,4 @@
-# Zadania Kalkulator
+# Zadanie Kalkulator
 
 | Termin oddania | Punkty     |
 |----------------|:-----------|
