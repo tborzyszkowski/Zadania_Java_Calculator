@@ -1,3 +1,5 @@
+package kalkulator;
+
 public class Calculator {
 	private int state = 0;
 
