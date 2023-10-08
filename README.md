@@ -2,7 +2,7 @@
 
 | Termin oddania | Punkty     |
 |----------------|:-----------|
-|    27.10.2022 23:00  |   5        |
+|    29.10.2023 23:00  |   5        |
 
 --- 
 Przekroczenie terminu o **n** zajęć wiąże się z karą:
