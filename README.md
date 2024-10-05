@@ -2,7 +2,7 @@
 
 | Termin oddania | Punkty     |
 |----------------|:-----------|
-|    29.10.2023 23:00  |   5        |
+|    26.10.2024 23:00  |   5        |
 
 --- 
 Przekroczenie terminu o **n** zajęć wiąże się z karą:
@@ -20,9 +20,15 @@ Pomyśl o testach na krańcach dziedziny.
 
 Dodaj do kalkulatora dwie nowe operacje wraz z testami. 
 Najmniej jedna z operacji powinna posiadać jakieś wykluczenia z dziedziny,
-np. opracja dzielenia i dzielenie przez 0. 
+np. opracja dzielenia z wykluczeniem dzielenia przez 0. 
 
 ## Zadanie 3
 
 Dodaj do kalkulatora możliwość przechowywania wyniku w pamięci oraz wykonywania operacji 
 z wykorzystaniem danych przechowywanych w pamięci.
+
+## Zadanie 4
+
+Dodaj do kalkulatora obsługę błędów obliczeń. Kalkulator powinien posiadać dodatkowy stan wskazujący czy obliczenie powoduje błąd, czy wylicza się poprawnie.
+Dodaj obsługę takiego stanu w istniejących operacjach. Napisz testy jednostkowe uwzględniające nowy stan.
+
